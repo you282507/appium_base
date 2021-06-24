@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 import pytest
-from picking_controller import PickingController
-
 
 class TestE2ECase:
     def setup_class(self):
